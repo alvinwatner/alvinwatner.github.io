@@ -2,14 +2,23 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hello, 
 
-### More Information
+I'm NLP Researcher in Reading Comprehension task. Over the past year, I have been working to publish scientific paper on Question Generation topic. I hope to publish this paper at the end of 2021.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Car Audio Engineer
+
+In my free time, I'm working as Car Audio Engineer at Grand Audio, Medan, North Sumatra.
+
+### Podcast co-host
+
+Other than that, I'm also a co-host for Indonesian Machine Learning podcast called as "Machine Learning @Mikroskil".
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alvinsetiadi22@gmail.com](mailto:email@domain.com)
