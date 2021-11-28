@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Hugginface with banned words decoding
 published: true
 ---
 Just create an update! 
