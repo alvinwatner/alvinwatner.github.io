@@ -12,7 +12,7 @@ I'm NLP Researcher in Reading Comprehension task. Over the past year, I have bee
 Currently, I'm focusing to build a data science portfolio that consist of wide-variety of machine learning tasks (e.g., classification, regresssion) that involved stuctured (tabular) and non-stuctured (vision and languages) data.
 
 # Technical Skills
-I have been actively use **Python** for my personal research project. To accelerate my works, I utilize various framework such as [Pytorch](https://pytorch.org/) for general Deep Learning and [Huggingface](https://huggingface.co/) for NLP.
+I have been actively using **Python** for my personal research project. To accelerate my works, I utilize various framework such as [Pytorch](https://pytorch.org/) for general Deep Learning and [Huggingface](https://huggingface.co/) for NLP.
 
 # Research Experiences
 - **(2020)** : LogDQN Deep Reinforcement Learning Implementation for Solving Hydrophobic-Polar Model Protein Folding Problem. ([link](https://alvinwatner.github.io/static/logdqn_hp.pdf))
