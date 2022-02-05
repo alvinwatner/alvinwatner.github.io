@@ -32,6 +32,8 @@ I have been actively using **Python** for my personal research project. To accel
 - Question Generation with Pegasus-large and Alpha Tokens. ([link](https://huggingface.co/alvinwatner/pegasus-large-qg-squad-alpha-interro/raw/main/test_prediction_results.json))
 - Generic notebook that provide general workflow for ML tasks. ([link](https://colab.research.google.com/drive/1C5pCs0jC4WRMDJsC224A0XR1hjkJA8ep?usp=sharing))
 - Banggood Marketplace Description Parser. ([link](https://github.com/alvinwatner/banggood_description_parser))
+- Covid-19 in Jakarta Visualization with Tableau ([link](https://public.tableau.com/app/profile/alvin.setiadi8627/viz/covid19_jkt/Dashboard1?publish=yes))
+- Covid-19 in Indonesia Time Series Visualization with Tableau ([link](https://public.tableau.com/app/profile/alvin.setiadi8627/viz/covid19_indo/Dashboard1?publish=yes))
 
 # Certificates
 - **(2021)** : Trending Analytics - Present Data with Confidence.
