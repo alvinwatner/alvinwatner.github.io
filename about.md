@@ -36,6 +36,7 @@ I have been actively using **Python** for my personal research project. To accel
 - Covid-19 in Indonesia Time Series Visualization with Tableau ([link](https://public.tableau.com/app/profile/alvin.setiadi8627/viz/covid19_indo/Dashboard1?publish=yes))
 
 # Certificates
+- **(2021)** : DTsense - Tableau Mastery for Data Visualization.
 - **(2021)** : Trending Analytics - Present Data with Confidence.
 - **(2021)** : IDAO 2021 - Machine Learning Bootcamp
 - **(2021)** : IELTS  Academic.\
